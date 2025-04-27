@@ -1,0 +1,81 @@
+# 🔥 OneNightStand Project 
+
+*A high-performance web template built with modern standards*
+
+![Project Preview](https://via.placeholder.com/1200x600.png?text=OneNightStand+Preview)
+
+## 🚀 Features
+- ✅ 100% Responsive Design
+- ⚡ Vanilla JS (No Framework Bloat)
+- 🎨 CSS Variables for Easy Theming
+- 📱 Mobile-First Architecture
+- 🌐 Progressive Enhancement
+
+## 📦 Installation
+```bash
+# Clone repository
+git clone https://github.com/6ofHertz/ONS.git
+
+# Navigate to project
+cd ONS
+
+# Launch development server (Python3)
+python3 -m http.server 8000
+```
+Access at: `http://localhost:8000`
+
+## 🏗️ Project Structure
+```
+ONS/
+├── index.html          # Main entry point
+├── styles/             # CSS assets
+│   ├── main.css        # Core styles
+│   └── animations.css  # Motion styles
+├── scripts/            # JavaScript
+│   └── app.js          # Main application logic
+├── assets/             # Static files
+│   ├── images/         # Image resources
+│   └── fonts/          # Custom typography
+├── LICENSE             # MIT License
+└── README.md           # This document
+```
+
+## 🛠️ Development
+```bash
+# Live reload (requires Node.js)
+npx live-server --port=8000
+```
+
+## 📜 License
+```text
+MIT License
+
+Copyright (c) 2023 [6ofHertz]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## 📬 Contact
+- GitHub: [@6ofHertz](https://github.com/6ofHertz)
+- Email: 133scylla@gmail.com
+
+---
+
+*"Built in one night, refined for production"* 🚀
+```
